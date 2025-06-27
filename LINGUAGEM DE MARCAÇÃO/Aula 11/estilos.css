@@ -1,0 +1,15 @@
+div{height: 100px;
+width: 100px;
+text-align: center;
+background-color: blue;
+margin: 10px;
+color: white;
+font-size: 30px;
+}
+
+.q2{
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    background-color: red;
+}
