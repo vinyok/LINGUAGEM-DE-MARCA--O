@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    align-items:;
+    justify-content:;
+    order: ;
+    flex-direction: ;
+    width: 60%;
+    height: 60vh;
+    background-color: gray;
+    
+}
+
+.filha{
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+
+}
+
+.filhaDireita{
+    width: 200px;
+    height: 70px;
+    background-color: orange;
+
+}

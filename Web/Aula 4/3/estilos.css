@@ -1,0 +1,15 @@
+.quadCinza{
+    display: flex;
+    background-color: gray;
+    height: 20vh;
+    align-items:start;
+    justify-content: end;
+    flex-direction: column-reverse;
+}
+
+.quadAzul{
+    background-color:cadetblue;
+    width: 90px;
+    height: 90px;
+    
+}
