@@ -1,0 +1,27 @@
+.quadCinza{
+    display: flex;
+    background-color: gray;
+    height: 20vh;
+    align-items: center;
+    justify-content: end;
+    flex-direction: row;
+    justify-content: center
+}
+
+.quadAzul{
+    background-color:cadetblue;
+    width: 160px;
+    height: 160px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.quadAzulGrande{
+    background-color:cadetblue;
+    width: 160px;
+    height: 160px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
